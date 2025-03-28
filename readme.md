@@ -32,14 +32,14 @@ Welcome to the **Solution Architecture Examples** repository! This repo showcase
 ### 2️⃣ HR Reference Payroll Architecture  
 **📍 Use Case:** What does a modern payroll technology architecture look like and how does it relate to business services.
 
-![alt text](https://github.com/MichaelCullen2011/ArchitectureDiagrams/blob/master/hr_ reference_payroll_architecture.png?raw=true)
+![hr payroll architecture](./hr_payroll_architecture.png)
 
 ---
 
 ### 3️⃣ API & Orchestrator Integrations for B2B Commerce Ecosystem
 **📍 Use Case:** A logical architecture diagram for API-based integrations across commerce, orchestration, and other core systems.  
 
-![oms logical architecture](./OMS Logical Architecture.png)
+![oms logical architecture](./oms_logical_architecture.png)
 
 ---
 
@@ -51,8 +51,7 @@ Welcome to the **Solution Architecture Examples** repository! This repo showcase
 ✅ **Conceptual Integrations**
 
 🔗 **[View Diagram](./lshc_architecture_blueprint.png)**  
-
---- -->
+-->
 
 ## 🛠️ How to Use This Repo  
 1. **Explore the diagrams** and their **real-world use cases**.  
