@@ -12,7 +12,7 @@ Welcome to the **Solution Architecture Examples** repository! This repo showcase
 ✅ **ETL Layer:** Serverless python pipelines, Google Run
 ✅ **Data Storage:** BigQuery (Timeseries Data), Firebase (User Data)
 
-🔗 **[View Diagram](./portfolio_app_data_platform.png)**  
+![alt text](https://github.com/MichaelCullen2011/ArchitectureDiagrams/blob/master/portfolio_app_data_platform.png?raw=true)
 
 ---
 
@@ -25,23 +25,21 @@ Welcome to the **Solution Architecture Examples** repository! This repo showcase
 ✅ **Processing:** Serverless (Google Run + BigQuery)
 ✅ **Visualization:** Tableau  
 
-🔗 **[View Diagram](./cloud_data_pipelines.png)**  
-
----
+![alt text](https://github.com/MichaelCullen2011/ArchitectureDiagrams/blob/master/cloud_data_pipelines.png?raw=true)
 
 ---
 
 ### 2️⃣ HR Reference Payroll Architecture  
 **📍 Use Case:** What does a modern payroll technology architecture look like and how does it relate to business services.
 
-🔗 **[View Diagram](./hr_ reference_payroll_architecture.png)**  
+![alt text](https://github.com/MichaelCullen2011/ArchitectureDiagrams/blob/master/hr_ reference_payroll_architecture.png?raw=true)
 
 ---
 
 ### 3️⃣ API & Orchestrator Integrations for B2B Commerce Ecosystem
 **📍 Use Case:** A logical architecture diagram for API-based integrations across commerce, orchestration, and other core systems.  
 
-🔗 **[View Diagram](./OMS Logical Architecture.png)**  
+![alt text](https://github.com/MichaelCullen2011/ArchitectureDiagrams/blob/master/OMS Logical Architecture.png?raw=true)
 
 ---
 
