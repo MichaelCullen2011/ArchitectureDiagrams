@@ -32,7 +32,7 @@ Welcome to the **Solution Architecture Examples** repository! This repo showcase
 ### 2️⃣ HR Reference Payroll Architecture  
 **📍 Use Case:** What does a modern payroll technology architecture look like and how does it relate to business services.
 
-![hr payroll architecture](./hr_payroll_architecture.png)
+![hr payroll architecture](./hr_reference_payroll_architecture.png)
 
 ---
 
